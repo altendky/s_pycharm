@@ -18,6 +18,7 @@
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="Python" />
     </extensionMap>
   </component>
 </application>
