@@ -17,6 +17,7 @@
       <mapping ext="docs" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="build" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
