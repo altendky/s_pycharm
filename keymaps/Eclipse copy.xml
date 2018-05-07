@@ -1,7 +1,16 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift alt x" />
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
 </keymap>
