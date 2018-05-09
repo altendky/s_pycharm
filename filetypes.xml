@@ -10,6 +10,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="ccstudio_installation_responses" type="PLAIN_TEXT" />
       <mapping pattern="custom_responses" type="PLAIN_TEXT" />
+      <mapping pattern="locale" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.local" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Pipfile" type="PLAIN_TEXT" />
