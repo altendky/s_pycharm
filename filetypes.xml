@@ -5,6 +5,7 @@
       <mapping ext="epc" type="JSON" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.io" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".gitmodules.ssh" type="PLAIN_TEXT" />
