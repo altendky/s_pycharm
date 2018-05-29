@@ -8,6 +8,7 @@
       <mapping pattern=".gitignore.io" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".gitmodules.ssh" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="ccstudio_installation_responses" type="PLAIN_TEXT" />
       <mapping pattern="custom_responses" type="PLAIN_TEXT" />
