@@ -9,15 +9,16 @@
       <mapping pattern=".gitignore.io" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".gitmodules.ssh" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="ccstudio_installation_responses" type="PLAIN_TEXT" />
-      <mapping pattern="custom_responses" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="locale" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.local" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Pipfile" type="PLAIN_TEXT" />
+      <mapping pattern="custom_responses" type="PLAIN_TEXT" />
       <mapping ext="feature" type="PLAIN_TEXT" />
+      <mapping ext="phabricator" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="linux" type="PLAIN_TEXT" />
       <mapping ext="removal" type="PLAIN_TEXT" />
