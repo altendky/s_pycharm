@@ -15,6 +15,7 @@
       <mapping pattern="locale" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.local" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="example_Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Pipfile" type="PLAIN_TEXT" />
       <mapping pattern="custom_responses" type="PLAIN_TEXT" />
       <mapping ext="feature" type="PLAIN_TEXT" />
