@@ -5,21 +5,22 @@
       <mapping ext="epc" type="JSON" />
       <mapping ext="epp" type="JSON" />
       <mapping ext="pmvs" type="JSON" />
+      <mapping ext="qs" type="JavaScript" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.io" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".gitmodules.ssh" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="ccstudio_installation_responses" type="PLAIN_TEXT" />
-      <mapping pattern="custom_responses" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="locale" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.local" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="example_Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Pipfile" type="PLAIN_TEXT" />
+      <mapping pattern="custom_responses" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="feature" type="PLAIN_TEXT" />
       <mapping ext="phabricator" type="PLAIN_TEXT" />
